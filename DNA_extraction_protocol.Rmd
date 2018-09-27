@@ -1,0 +1,108 @@
+---
+title: "DNA extraction protocol"
+author: "Lauren Ash email: lvash@uvm.edu phone: 813-310-0130"
+date: "Fall 2017"
+output: pdf_document
+geometry: margin=0.75in
+---
+\fontsize{11}{22}
+\selectfont
+
+# General procedures   
+* **Eject the pipette tip if it touches anything:** the outside of a tube or bottle, the table, your clothes, gloves, etc.
+    * This is very important because if a buffer gets contaminated, the $275 kit can't be used anymore.
+    * If the tip has necessary liquid in it, hover over where it needs to be ejected and dispel liquid (don't touch the tube with the tip)
+* Do not touch anything with your gloves on (including phones and clothing); it's better to take off one glove first if you need to use your phone
+* Remember to use my materials in the drawer. If an item is getting low (like gloves), email/text me and I will restock it
+* Recycle empty pipette tip boxes in the hallway outside the lab (Containers bin)
+* Make sure to wash your hands afterwards 
+
+# Day 1
+
+## Set up
+1) Turn incubator to 55$^\circ$ C (monitor the thermometer)
+2) Set up two 80mL beakers: 50% bleach and dH~2~O
+    + Add 40mL of bleach to one beaker (Bleach Beaker) and fill up to 80mL with dH~2~O (from the jug next to the sink)
+    + Transfer the 50% bleach to the other beaker (Water Beaker) and swish around for at least a minute
+    + Transfer 50% bleach back to Bleach Beaker
+    + Coat the inside of the Water Beaker with ethanol (by the sink)
+    + Rinse the Water Beaker with dH~2~O and finally fill with dH~2~O
+    + Label the beakers with tape
+3) Let forceps soak in bleach
+4) Set up a set 1.5mL tubes (N + 1 negative) and label 1 to N (N = number of samples) + 'neg' (don't touch the inside or caps!)
+5) Get samples (from the list) out of Lori's freezer (remember not to leave the freezer open for too long and to return the key)
+    + Remember the samples we will use are on the second shelf and are labeled Site Letter Week Number - Individual Number (H2-16). 
+    + The boxes are labeled week number - individual number, so a box labeled Box #2-3 is from week 2.
+    + The boxes are stacked by week
+    + *If a tube is definitely missing* from the box (from week 6 or 7), skip the sample and email me which one was skipped
+6) Write the sample names and numbers, the date, and which Day you are doing in your lab notebook
+
+## Protocol   
+   
+1) Transfer the tissue in the ethanol tube to the empty tubes labeled 1 to N. Make sure the numbers correspond to what is on the sheet and what you have written down.
+    + Take the forceps from the bleach, rinse in the water beaker, and dry with a KimWipe
+    + Make sure your gloves do not touch the tips of the forceps after cleaning
+    + Make sure the forceps soak in bleach for at least a minute before you use them again
+    + *If there is a whole (large) tadpole in the tube*, use two pairs of clean forceps to pull the tail from body and use the tail in extraction. Keep the body in the ethanol tube, write 'extra' on the cap, and put it in the Extra box in Lori's freezer
+2) Add 200 microliters (uL) of TL Buffer to each of the samples and the negative
+    + Use the 200 uL pipette (set to 2-0-0) with 200 uL tips (yellow, check the side of the box to make sure it says 200 and not 20uL)
+3) Add 25 uL of OB Protease Solution again using the 200 uL pipette (set to 0-2-5) and 200 uL tips
+4) Vortex the samples **(Make sure no tissue is stuck on the side of the tube)**
+5) Put the samples in the incubator heated to 55$^\circ$ C
+6) Put away materials in drawer and clean workspace with 10% bleach (on shelf above bench) and ethanol (next to sink)
+
+# Day 2   
+
+## Protocol
+
+1) Vortex the samples and then centrifuge for 5 minutes at maximum speed
+
+> **While waiting:**   
+> Turn up incubator to 70$^\circ$ C  (monitor the thermometer) 
+> Label two sets of 1.5 mL tubes: one set with just numbers (1-N and neg) and one set with the original sample names from the list (don't touch the inside or caps!)   
+
+2) Transfer the supernatant to its corresponding numbered 1.5 mL microcentrifuge tube. You can set the 1000 uL pipette to around 250 uL (0-2-5). Be careful handling the tubes - do not disturb or transfer any of the insoluble pellet!
+3) Add 220 uL BL Buffer using the 1000 uL pipette and tips (blue) set to 0-2-2. It is normal for a wispy precipitate to form. It is also normal for tubes that started with a large amount of tissue to have a yellow/orange tint.
+4) Vortex each sample and put in the heat block (70$^\circ$ C) for 10 minutes  
+
+> **While waiting:**   
+> Measure out elution buffer and put in the heat block (leave it to heat until you use it at the end): measure 100 uL per sample + ~200 uL (i.e. for 11 samples, ~1300 uL of elution buffer)   
+> Set out two sets of 2 mL capless tubes (from the kit) Don't touch the inside!   
+> Near the end of the 10 minutes, put blue columns into one set of the capless tubes and label 1 to N and neg. Don't touch the bottoms!
+
+5) Add 220 uL 100% ethanol (located in the yellow flammables cabinet) to the heated tubes
+6) Vortex each tube
+7) Transfer the entire sample to the blue HiBind® DNA Mini Column in the set of 2 mL capless tubes; you can set your 1000 uL pipette to around 800 uL (0-8-0)
+8) Centrifuge at maximum speed for 1 minute
+9) Dump the filtrate and reuse the collection tube
+10) Add 500 uL HBC Buffer with the 1000 uL pipette set to 0-5-0
+11) Centrifuge at maximum speed for 30 seconds
+12) Discard the filtrate AND the collection tube
+13) Insert the blue HiBind® DNA Mini Column into a new 2 mL Collection Tube
+14) Add 700 uL DNA Wash Buffer with the 1000 uL pipette set to 0-7-0
+15) Centrifuge at maximum speed for 30 seconds
+16) Dump the filtrate and reuse the collection tube
+17) Add 700 uL DNA Wash Buffer
+18) Centrifuge at maximum speed for 30 seconds
+19) Dump the filtrate and reuse the collection tube
+20) Centrifuge the empty HiBind® DNA Mini Column at maximum speed for 2 minutes to dry the column.
+21) Transfer the blue HiBind® DNA Mini Column into its corresponding nuclease-free 1.5 mL microcentrifuge tube (labeled with sample name at the beginning)
+22) Add 100 uL Elution Buffer heated to 70$^\circ$ C 
+    + Use the 200 uL pipette (set to 1-0-0) and 200 uL tips (make sure you check the front of the pipette tip box)
+23) Let sit at room temperature for 2 minutes 
+24) Centrifuge at maximum speed for 1 minute (put the tubes in with the open caps facing outwards)
+25) **Check the 1.5 mL tube** and make sure eluted DNA goes up until the 0.1 mL mark and then discard the column.
+26) Put the eluted DNA in Lori's freezer in the next available freezer box (extra freezer boxes are in the drawer if they are all filled; make sure to label the new box with tape: Year-Month-Day in upper left corner, box number in upper right (i.e. Box # EL-8), "DNA elutions" in middle, LVA in lower right) 
+27) Write which box number you put the eluted DNA tubes in on the sheet
+28) Put away materials in drawer and clean workspace with 10% bleach (on shelf above bench) and ethanol (next to sink)
+29) Turn off heat block if not being used
+
+Did something go wrong with one or more of the samples? Make a note of which one(s) on the sheet and email me letting me know! 
+
+**Text/call me at 813-310-0130 if you have any questions!** 
+
+  
+
+
+
+

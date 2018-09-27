@@ -1,0 +1,62 @@
+---
+title: "DNA dilutions protocol"
+author: "Lauren Ash email: lvash@uvm.edu phone: 813-310-0130"
+date: "Spring 2018"
+output: pdf_document
+geometry: margin=0.75in
+---
+\fontsize{11}{22}
+\selectfont
+
+# General procedures   
+* **Eject the pipette tip if it touches anything:** the outside of a tube or bottle, the table, your clothes, gloves, etc.
+    * This is very important because if a diluted sample gets contaminated, we cannot trust the qPCR results.
+    * If the tip has necessary liquid in it, hover over where it needs to be ejected and dispel liquid (don't touch the tube with the tip)
+* Do not touch anything with your gloves on (including phones and clothing); it's better to take off one glove first if you need to use your phone
+* Remember to use my materials in the drawer. If an item is getting low (like gloves), email/text me and I will restock it
+* Recycle empty pipette tip boxes in the hallway outside the lab (Containers bin)
+* Make sure to wash your hands afterwards 
+
+# Set up
+
+1) Find the list of samples in the binder under the dilutions tab (separated according to qPCR runs)
+2) Highlight the samples you wish to dilute and sign off with your name and date
+3) Write the samples you do in your notebook
+4) Take out the appropriate number of microamp tubes (strips of 8)
+    + Be careful not to touch the inside of the tubes or caps 
+    + Close the caps immediately
+    + Twist off any remainder that you will not use
+5) Label the tubes
+    + One one side of the tubes, write each sample name
+    + On the other side, write what Run number it is (check the list)
+    + Label the caps of the tubes 1 to N
+4) Retrieve the eluted DNA tubes from the freezer in Lori's lab (don't forget to bring a block!)
+5) Vortex and spin down the samples (~30 seconds)
+
+    > **If you don't immediately use the samples, place in freezer until you are ready. If you are doing a lot at one time, leave some in freezer until you are ready. Do NOT leave out samples for long period of time!**   
+
+# Protocol   
+   
+1) Using the dilutions list in the binder, add the appropriate amount of water to each tube (using the nuclease-free water in the tube with the green cap - should be marked '(qPCR)'). **A lot of tubes will have no water, so be sure to skip over those**
+    + If the amount is <10uL, use the 0.5-10uL pipette and 10uL tips 
+    + If the amount is between 10ul and 20uL, use the 2-20uL pipette and 20uL tips
+    + Eject and use new pipette tips each time
+    + **Make sure the tubes match up**
+2) Using the dilutions list in the binder, add the appropriate amount of DNA to each tube 
+    + If the amount is <10uL, use the 0.5-10uL pipette/tips 
+    + If the amount is between 10ul and 20uL, use the 2-20ul pipette/tips
+    + Eject and use new pipette tips each time
+    + **Make sure the tubes match up**
+3) Either put them in the most recent plastic plate in Lori's freezer (if there is room) and add to that label OR place them in a new plastic plate (extras are in drawer) and label them
+    + To label: place tape on the side of the plastic cover with the date, my initials, "Diluted DNA", the run number (if you did the whole set) or which samples you did (e.g R5-12 - C2-17).
+    + Be sure to leave space on the tape label if there is room in the plate so others can add to it
+
+Did something go wrong with one or more of the samples? Make a note of which one(s) on the sheet and email me letting me know! 
+
+**Text/call me at 813-310-0130 if you have any questions!** 
+
+  
+
+
+
+
